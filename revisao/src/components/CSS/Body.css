@@ -1,0 +1,16 @@
+.body {
+
+    border-bottom: 2px solid rgb(104, 104, 255, 0.689);
+    border-left: 2px solid rgb(104, 104, 255, 0.689);
+    border-right: 2px solid rgb(104, 104, 255, 0.689);
+    border-radius: 10px;
+    text-align: center;
+    min-height: calc(100vh - 60px);
+}
+
+.body p {
+
+    font-family: "Roboto", sans-serif;
+    color: rgb(104, 104, 255, 0.689);
+    font-size: 18px;
+}

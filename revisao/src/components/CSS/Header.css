@@ -1,0 +1,32 @@
+.header {
+
+    border: 2px solid rgba(104, 104, 255, 0.689);
+    border-radius: 10px;
+    height: 60px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;   
+}
+
+.header2 {
+
+    display: flex;
+}
+
+.header .logo, ol ul {
+
+    font-family: "Roboto", sans-serif;
+    color: rgba(104, 104, 255, 0.689);
+    font-size: 18px;
+}
+
+ol {
+
+    display: flex;
+    gap: 15px;
+}
+
+ol ul:hover, .logo {
+
+    cursor: pointer;
+}
