@@ -2,8 +2,9 @@
 
     border: 2px solid rgba(104, 104, 255, 0.689);
     border-radius: 10px;
-    height: 60px;
-    display: flex; 
+    height: calc(100vh - 30%);
+    display: flex;
+    flex-direction: column; 
     align-items: center;
     justify-content: center;   
 }
@@ -12,6 +13,11 @@
 
     display: flex;
 }
+
+/* .header3 {
+
+
+} */
 
 .header .logo, ol ul {
 

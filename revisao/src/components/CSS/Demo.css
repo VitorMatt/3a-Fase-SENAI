@@ -1,0 +1,8 @@
+.icon {
+
+
+    & .icon-react {
+        
+        color: blue;
+    }
+}
